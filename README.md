@@ -22,4 +22,5 @@ All of the less file in Bootstrap's source code has been recompiled into the "bs
 
 
 ## Warning
-There are no studies on bootstrap js. In case of conflicts about javascript, a prefix can be added to the functions.
+- The "container" class in bootstrap may not be compatible with WordPress theme templates because it contains exact width values via the full screen width. You can use the "container-fluid" class instead.
+- There are no studies on bootstrap js. In case of conflicts about javascript, a prefix can be added to the functions.
