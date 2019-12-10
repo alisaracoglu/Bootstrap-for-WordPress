@@ -1,7 +1,7 @@
 # Bootstrap for WordPress
 `Bootstrap v3.3.7`
 
-You can safely use the bootstrap classes within this element.
+You can safely use the Bootstrap classes within WordPress.
 
 
 ## Usage
